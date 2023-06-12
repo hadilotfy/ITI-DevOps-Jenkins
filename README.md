@@ -1,7 +1,7 @@
-# ITI DevOps Jenkins
+# ITI DevOps Prometheus
 
-#### my work on Jenkins Hands-On labs during DevOps Training at Information Technology Institute (ITI) - Smart Villlage May 2023
+#### my work on Prometheus Hands-On labs during DevOps Training at Information Technology Institute (ITI) - Smart Villlage June 2023
 
 ## Lab 1 (finished)
 
-## Lab 2 ...
+## Lab 2 (finished)

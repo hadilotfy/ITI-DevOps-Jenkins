@@ -1,0 +1,3 @@
+[submodule "Day 2/multibranch_website_repo"]
+	path = Day 2/multibranch_website_repo
+	url = https://github.com/hadilotfy/ITI-Jenkins-lab2
