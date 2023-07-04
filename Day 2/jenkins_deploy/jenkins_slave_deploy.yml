@@ -15,7 +15,7 @@ spec:
       spec:
         containers:
         - name: jenkins-ubuntu-slave
-          image: hadilotfy/jenkins-ubuntu-slave:v0           # still not created
+          image: hadilotfy/jenkins-ubuntu-slave:v1   # :v0           
           imagePullPolicy: Never
           ports:
           - containerPort: 22
